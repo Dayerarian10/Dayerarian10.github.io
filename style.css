@@ -345,7 +345,7 @@ footer {
     flex-direction: column;
 
     & p {
-        color: var(--colorgristexto);
+        color: var(--colornegro);
         padding-top: 9px;
         font-size: 15px;
     }
